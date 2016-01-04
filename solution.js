@@ -2,7 +2,6 @@
 // console.log('this is a debug message');
 
 
-// ToDo: Solve using Balanced BST
 function solution(A) {
     // write your code in JavaScript (Node.js 4.0.0)
     
